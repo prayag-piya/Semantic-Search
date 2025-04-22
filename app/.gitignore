@@ -14,9 +14,6 @@ __pycache__/
 .idea/
 
 # Model and data files
-models/*.pkl
-models/*.faiss
-models/index_metadata.pkl
 videos/
 data/
 *.mp4
