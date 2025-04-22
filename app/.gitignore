@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+*.env
+
+
+# IDE files
+.vscode/
+.idea/
+
+# Model and data files
+models/*.pkl
+models/*.faiss
+models/index_metadata.pkl
+videos/
+data/
+*.mp4
+*.wav
+*.json
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Uploaded files
+uploads/
+temp/
+cache/
+
+# Token/secret files
+secrets.json
+credentials.json
+.azure/
+
+# Node/npm (if any frontend assets)
+node_modules/
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Azure credentials (if downloaded locally)
+azure_profile.json
+azure_credentials.json
