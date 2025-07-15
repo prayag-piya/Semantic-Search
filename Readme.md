@@ -1,4 +1,5 @@
 # 🎥 Semantic Video Search with FastAPI, Whisper and FAISS
+
 This project is a full-stack backend for semantic video search. It allows users to upload video files, transcribe them using OpenAI's Whisper model, extract semantic features and entities, index them using FAISS for fast vector search.
 
 ## 🚀 Features
