@@ -26,7 +26,7 @@ This project is a full-stack backend for semantic video search. It allows users 
 ├── Front-Search            # Frontend
 ├── videos/                 # Local temp video files
 ├── .env                    # Azure credentials and secrets
-├── .gitignore
+├── .gitignore              # ignores unwanted files
 └── README.md
 ```
 
