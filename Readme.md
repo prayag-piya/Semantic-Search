@@ -13,7 +13,7 @@ This project is a full-stack backend for semantic video search. It allows users 
 # 📁 Project Structure
 ```
 ├── main.ipynb                 # FastAPI app and endpoints
-├── app/
+├── backend/
 │   └── utility
 |       └── utils.py     # Helpers: transcription, normalization, FAISS, Azure
 |   └── models/
