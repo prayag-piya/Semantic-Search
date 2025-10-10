@@ -31,6 +31,7 @@ This project is a full-stack backend for semantic video search. It allows users 
 ```
 
 # 🛠 Setup Instructions
+
 1. Clone the repository
 ```
 git clone https://github.com/prayag-piya/semantic-video-search.git
