@@ -9,7 +9,7 @@ This project is a full-stack backend for semantic video search. It allows users 
 - ⚡ FAISS Indexing for fast vector search
 - 🔍 Search API for querying semantically similar content
 - 🔄 Background Processing with FastAPI BackgroundTasks
-
+  
 # 📁 Project Structure
 ```
 ├── main.ipynb                 # FastAPI app and endpoints
