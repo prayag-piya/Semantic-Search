@@ -27,7 +27,7 @@ executing==2.2.0
 faiss-cpu==1.10.0
 fastapi==0.115.12
 fastapi-cli==0.0.7
-filelock==3.18.0
+filelock==3.20.1
 fsspec==2025.3.2
 gensim==4.3.3
 h11==0.14.0
