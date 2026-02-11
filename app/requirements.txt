@@ -74,7 +74,7 @@ openai-whisper==20240930
 packaging==24.2
 pandas==2.2.3
 parso==0.8.4
-pillow==10.4.0
+pillow==12.1.1
 platformdirs==4.3.7
 plotly==6.0.1
 pooch==1.8.2
